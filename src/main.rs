@@ -2,7 +2,7 @@ use std::io;
 use rand::Rng;
 
 fn main() {
-    println!("Guess is number");
+    println!("Guess the number");
 
 
     println!("input your guess");
